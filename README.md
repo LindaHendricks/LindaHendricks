@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a></h3>
-<h2 align="center"> I am Full-Stack Developer, focusing on front-end development with a fashion background</h2>
+<h2 align="center"> I am Full-Stack Developer focusing on front-end development with a internation fashion business background</h2>
 
 Full stack React.js and Ruby-on-rails developer with a focus on front-en development and a proven track record of connecting creative brands to their clients. Managed large scale projects with cross-functional teams, demonstrated return on investment, exceeded clients’ revenue goals consistently and communicated with c-level executives. A problem solver passionate about converting audiences into loyal customers.
 
@@ -49,7 +49,7 @@ I’m currently learning more on :
 
 ## LAST BLOG POSTS
 
-- [From Color Block Outfit to Blockchain…](https://linda-hendricks.medium.com/from-color-block-suit-to-blockchain-93f8b665ba)
+- [From color block outfit to Bblockchain…](https://linda-hendricks.medium.com/from-color-block-suit-to-blockchain-93f8b665ba)
 - [Perso: Tale-to-scale skincare and makeup tech device, the future of Beauty Technology](https://linda-hendricks.medium.com/perso-tale-to-scale-skincare-and-makeup-tech-device-the-future-of-beauty-technology-524073801f9c)
 
 
