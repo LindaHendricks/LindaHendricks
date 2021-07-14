@@ -55,7 +55,7 @@
 
 <h1>CONNECT WITH ME HERE </h1>
 
-<a width:"21px" href="https://www.linkedin.com/in/linda-hendricks-698a3b3a/" target="_blank" rel="noreferrer"><img src="/assets/images/linkedin.png" alt="linkedIn"></a>
+<a href="https://www.linkedin.com/in/linda-hendricks-698a3b3a/" target="_blank" rel="noreferrer"><img width:"21px" src="/assets/images/linkedin.png" alt="linkedIn"></a>
 
 
 
