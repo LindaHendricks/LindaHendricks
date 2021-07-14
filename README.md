@@ -1,16 +1,14 @@
 
-
-
 <p align=”center”>
 <img src="https://user-images.githubusercontent.com/75175916/125659110-0f3c796c-a675-4880-983a-cec3de7da8ab.jpg" alt="mybanner">
-<h1>"Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks"</a></h1>
+<h1>Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a></h1>
 </p>
 
 <h1>LANGUAGES AND TOOLS</h1>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<span><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
 
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<span><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></span>
 
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -44,11 +42,8 @@
 
 <h1>STAT CARD</h1>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LindaHendricks)](https://github.com/yushi1007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
-
-<a href=”https://www.linkedin.com/in/linda-hendricks-698a3b3a/"><img align=”left” src=”https://raw.githubusercontent.com/LindaHendricks/LindaHendricks/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LindaHendricks)](https://github.com/LindaHendricks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/LindaHendricks)
 
 
 - 🔭 I’m currently working on my portfolio website
@@ -61,7 +56,7 @@
 
 <h1>CONNECT WITH ME HERE </h1>
 
-<a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer"><img src="/Users/lindanyangohtimoh/Desktop/LindaHendricksReadMe/LindaHendricks/assets/images/linkedin.png" alt="linkedIn"></a>
+<a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer"><img src="/assets/images/linkedin.png" alt="linkedIn"></a>
 
 
 
