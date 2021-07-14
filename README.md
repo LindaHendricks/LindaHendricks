@@ -7,7 +7,6 @@
 <h1>STAT CARD</h1>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LindaHendricks)](https://github.com/LindaHendricks)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LindaHendricks&layout=compact)](https://github.com/LindaHendricks)
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning CSS and AWS
@@ -17,38 +16,31 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Suchi Addict!
 
-<h1>LANGUAGES AND TOOLS</h1>
-<div class="row">
-<div class="column" display:"inline" padding: "5px" ><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></div><div class="column" float:"left" padding: "5px"><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></div>
+## 💼 LANGUAGES AND TOOLS 
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
-<div class="column" display:"inline" padding: "5px"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
+</br>
 
-<div class="column" display:"inline" padding: "5px"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/></div>
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
+</br>
 
-<div class="column" float:"left" padding: "5px"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></div>
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-<div class="column" float:"left" padding: "5px"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></div>
+## LET'S BE IN TOUCH
 
-<div class="column" float:"left" padding: "5px"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/></div>
+<a href="https://www.linkedin.com/in/linda-hendricks-698a3b3a/"><img align="left" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/linkedin.png?raw=true" alt="Linda Hendricks - LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/lindahendricksofficial/"><img align="left" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/instagram.png?raw=true" alt="Linda Hendricks - Instagram" width="21px"/></a>
+<a href="https://linda-hendricks.medium.com/"><img align="left" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/medium.png?raw=true" alt="Linda Hendricks - Medium" width="21px"/></a>
+<a href="https://linda-hendricks.com/"><img src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/logo_black%202.png?raw=true"/>
 
-<div class="column" float:"left" padding: "5px"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></div>
-
-<div class="column" float:"left" padding: "5px"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></div>
-</div>
-
+</br>
