@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/75175916/125659110-0f3c796c-a675-4880-983a-cec3de7da8ab.jpg" alt="mybanner">
 </p>
 
-<h2 align="center">Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a></h2>
+<h2 align="center">Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a>!</h2>
 <h3 align="center"> Full-Stack Developer with a fashion business background</h3>
 
 Full stack React.js and Ruby-on-rails developer with a focus on front-en development and a proven track record of connecting creative brands to their clients. Managed large scale projects with cross-functional teams, demonstrated return on investment, exceeded clients’ revenue goals consistently and communicated with c-level executives. A problem solver passionate about converting audiences into loyal customers.
