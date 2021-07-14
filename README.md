@@ -41,6 +41,6 @@
 <a href="https://www.linkedin.com/in/linda-hendricks-698a3b3a/"><img align="left" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/linkedin.png?raw=true" alt="Linda Hendricks - LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/lindahendricksofficial/"><img align="left" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/instagram.png?raw=true" alt="Linda Hendricks - Instagram" width="21px"/></a>
 <a href="https://linda-hendricks.medium.com/"><img align="left" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/medium.png?raw=true" alt="Linda Hendricks - Medium" width="21px"/></a>
-<a href="https://linda-hendricks.com/"><img width:"21px" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/logo_black%202.png?raw=true"/>
+<a href="https://linda-hendricks.com/"><img width:"10" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/logo_black%202.png?raw=true"/>
 
 </br>
