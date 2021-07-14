@@ -1,17 +1,15 @@
-
 <p align=”center”>
 <img src="https://user-images.githubusercontent.com/75175916/125659110-0f3c796c-a675-4880-983a-cec3de7da8ab.jpg" alt="mybanner">
 </p>
 
 <h3 align="center">Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a></h3>
-<h2 align="center"> I am Full-Stack Developer focusing on front-end development with a internation fashion business background</h2>
+<h2 align="center"> Full-Stack Developer with a fashion business background</h2>
 
 Full stack React.js and Ruby-on-rails developer with a focus on front-en development and a proven track record of connecting creative brands to their clients. Managed large scale projects with cross-functional teams, demonstrated return on investment, exceeded clients’ revenue goals consistently and communicated with c-level executives. A problem solver passionate about converting audiences into loyal customers.
 
-
 I’m currently working on :
 
-- CSS3 
+- CSS3
 - A International Fashion Photographer Image Gallery using Vanilla Javascript and S3
 - A French Illustrator web application using React.js
 - A Lifestyle E-shop web application using Vanilla Javascript, React.js and commerce.js
@@ -19,14 +17,15 @@ I’m currently working on :
 - A Vogue Talent Designer website using Vanilla Javascript
 
 I’m currently learning more on :
-- CSS3 
+
+- CSS3
 - AWS
 - Sass
 
-📫 How to reach me? 
--  linda.hendricks.se@gmail.com, 😄 Pronouns: She/Her, ⚡ Fun fact? I am a Suchi Addict!
+📫 How to reach me?
+- linda.hendricks.se@gmail.com, 😄 Pronouns: She/Her, ⚡ Fun fact? I am a Suchi Addict!
 
-## 💼 LANGUAGES AND TOOLS 
+## 💼 LANGUAGES AND TOOLS
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -40,18 +39,18 @@ I’m currently learning more on :
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Style-Sass-pink)
+![](https://img.shields.io/badge/Style-Photoshop-orange)
 
 </br>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-
 ## LAST BLOG POSTS
 
 - [From color block outfit to Bblockchain…](https://linda-hendricks.medium.com/from-color-block-suit-to-blockchain-93f8b665ba)
 - [Perso: Tale-to-scale skincare and makeup tech device, the future of Beauty Technology](https://linda-hendricks.medium.com/perso-tale-to-scale-skincare-and-makeup-tech-device-the-future-of-beauty-technology-524073801f9c)
-
 
 ## STATS CARD
 
