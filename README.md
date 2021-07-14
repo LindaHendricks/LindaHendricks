@@ -4,6 +4,19 @@
 <h1>Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a></h1>
 </p>
 
+<h1>STAT CARD</h1>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LindaHendricks)](https://github.com/LindaHendricks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LindaHendricks&layout=compact)](https://github.com/LindaHendricks)
+
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning CSS and AWS
+- 👯 I’m looking to collaborate on mor open source projects 
+- 💬 I’m looking to help with anything just ask!
+- 📫 How to reach me: linda.hendricks.se@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a Suchi Addict!
+
 <h1>LANGUAGES AND TOOLS</h1>
 
 <span><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
@@ -40,23 +53,9 @@
 
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
-<h1>STAT CARD</h1>
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LindaHendricks)](https://github.com/LindaHendricks)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/LindaHendricks)
-
-
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning CSS and AWS
-- 👯 I’m looking to collaborate on mor open source projects 
-- 💬 I’m looking to help with anything just ask!
-- 📫 How to reach me: linda.hendricks.se@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a Suchi Addict!
-
 <h1>CONNECT WITH ME HERE </h1>
 
-<a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer"><img src="/assets/images/linkedin.png" alt="linkedIn"></a>
+<a width:"21px" href="https://www.linkedin.com/in/linda-hendricks-698a3b3a/" target="_blank" rel="noreferrer"><img src="/assets/images/linkedin.png" alt="linkedIn"></a>
 
 
 
