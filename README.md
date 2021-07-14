@@ -1,16 +1,68 @@
-### Hi there 👋
 
-<!--
-**LindaHendricks/LindaHendricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>"Hi there,</h1> <h1><a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">I am Linda Hendricks"</a></h1>
+<p align=”center”>
+<img width="200" height="200" src=”https://user-images.githubusercontent.com/75175916/125659110-0f3c796c-a675-4880-983a-cec3de7da8ab.jpg" alt=”my banner”>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt=”React” src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<h1>LANGUAGES AND TOOLS</h1>
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+
+
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+
+<img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+
+<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
+<h1>STAT CARD</h1>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LindaHendricks)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+
+
+<a href=”https://www.linkedin.com/in/linda-hendricks-698a3b3a/"><img align=”left” src=”https://raw.githubusercontent.com/LindaHendricks/LindaHendricks/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning CSS and AWS
+- 👯 I’m looking to collaborate on mor open source projects 
+- 💬 I’m looking to help with anything just ask!
+- 📫 How to reach me: linda.hendricks.se@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a Suchi Addict!
+
+<h1>CONNECT WITH ME HERE </h1>
+
+<a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer"><img src="/Users/lindanyangohtimoh/Desktop/LindaHendricksReadMe/LindaHendricks/assets/images/linkedin.png" alt="linkedIn"></a>
+
+
+
