@@ -53,17 +53,5 @@
 
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
-<h1>CONNECT WITH ME HERE </h1>
-
-<img width:"21px" src="/Users/lindanyangohtimoh/Desktop/LindaHendricksReadMe/LindaHendricks/assets/images/linkedin.png" alt="linkedIn">
-
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
-<a href="https://www.linkedin.com/in/linda-hendricks-698a3b3a/" target="_blank" rel="noreferrer"><img width:"21px" src="/assets/images/linkedin.png" alt="lindaHendricks"></a>
-
-<a href="https://www.instagram.com/lindahendricksofficial/" target="_blank" rel="noreferrer"><img width:"21px" src="https://github.com/LindaHendricks/LindaHendricks/blob/main/assets/images/instagram.png" alt="Instagram"></a>
-
-<a href="https://www.linkedin.com/in/linda-hendricks-698a3b3a/" target="_blank" rel="noreferrer"><img width:"21px" src="./assets/images/linkedin.png" alt="medium"></a>
-
 
 
