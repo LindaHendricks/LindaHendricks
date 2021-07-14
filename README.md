@@ -3,7 +3,7 @@
 
 <p align=”center”>
 <img src="https://user-images.githubusercontent.com/75175916/125659110-0f3c796c-a675-4880-983a-cec3de7da8ab.jpg" alt="mybanner">
-<h1>"Hi there,<a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">I am Linda Hendricks"</a></h1>
+<h1>"Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks"</a></h1>
 </p>
 
 <h1>LANGUAGES AND TOOLS</h1>
