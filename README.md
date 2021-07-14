@@ -1,11 +1,10 @@
 
 
-<h1>"Hi there,</h1> <h1><a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">I am Linda Hendricks"</a></h1>
-<p align=”center”>
-<img width="200" height="200" src=”https://user-images.githubusercontent.com/75175916/125659110-0f3c796c-a675-4880-983a-cec3de7da8ab.jpg" alt=”my banner”>
-</p>
 
-<img alt=”React” src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<p align=”center”>
+<img src="https://user-images.githubusercontent.com/75175916/125659110-0f3c796c-a675-4880-983a-cec3de7da8ab.jpg" alt="mybanner">
+<h1>"Hi there,<a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">I am Linda Hendricks"</a></h1>
+</p>
 
 <h1>LANGUAGES AND TOOLS</h1>
 
