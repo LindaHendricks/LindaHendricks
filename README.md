@@ -10,7 +10,6 @@ Full stack React.js and Ruby-on-rails developer with a focus on front-en develop
 
 💼 I’m currently working on :
 
-- CSS3
 - A International Fashion Photographer Image Gallery using Vanilla Javascript and S3
 - A French Illustrator web application using React.js
 - A Lifestyle E-shop web application using Vanilla Javascript, React.js and commerce.js
@@ -22,6 +21,7 @@ Full stack React.js and Ruby-on-rails developer with a focus on front-en develop
 - CSS3
 - AWS
 - Sass
+- Python
 
 📫 How to reach me?
 - linda.hendricks.se@gmail.com, 😄 Pronouns: She/Her, ⚡ Fun fact? I am a Suchi Addict!
