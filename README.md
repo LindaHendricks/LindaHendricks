@@ -3,9 +3,9 @@
 </p>
 
 <h2 align="center">Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a>!</h2>
-<h3 align="center"> Full-Stack Developer with a business and marketing background</h3>
+<h3 align="center"> Front-End Engineer with a business and marketing background</h3>
 
-Full stack React.js and Ruby-on-rails developer with a focus on front-en development and a proven track record of connecting creative brands to their clients. Managed large scale projects with cross-functional teams, demonstrated return on investment, exceeded clients’ revenue goals consistently and communicated with c-level executives. A problem solver passionate about converting audiences into loyal customers.
+React.js and Ruby-on-rails Developer with a focus on front-en development and a proven track record of connecting creative brands to their clients. Managed large scale projects with cross-functional teams, demonstrated return on investment, exceeded clients’ revenue goals consistently and communicated with c-level executives. A problem solver passionate about converting audiences into loyal customers. 
 
 
 💼 I’m currently working on :
@@ -21,7 +21,7 @@ Full stack React.js and Ruby-on-rails developer with a focus on front-en develop
 - CSS3
 - AWS
 - Sass
-- Python
+
 
 📫 How to reach me?
 - linda.hendricks.se@gmail.com, 😄 Pronouns: She/Her, ⚡ Fun fact? I am a Suchi Addict!
