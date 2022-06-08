@@ -1,5 +1,5 @@
 <p align=”center”>
-<img src="https://user-images.githubusercontent.com/75175916/172641864-3cae4443-06aa-426f-aad9-ea52d22ac35c.png" alt="mybanner">
+<img align="center" src="https://user-images.githubusercontent.com/75175916/172641864-3cae4443-06aa-426f-aad9-ea52d22ac35c.png" alt="mybanner">
 </p>
 
 <h2 align="center">Hi there, I am <a href="https://linda-hendricks.com/" target="_blank" rel="noreferrer">Linda Hendricks</a>!</h2>
